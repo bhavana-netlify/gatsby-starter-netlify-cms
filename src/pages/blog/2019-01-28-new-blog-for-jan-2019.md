@@ -6,4 +6,4 @@ description: This will be added soon
 tags:
   - '2019'
 ---
-More content tbd
+Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. 
