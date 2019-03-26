@@ -2,7 +2,7 @@
 templateKey: about-page
 title: About our values
 ---
-### Demo for updates for Anadarko
+### Demo for updates
 
 This is a demo. We are now using the Netlify cms. This is the staging branch
 
