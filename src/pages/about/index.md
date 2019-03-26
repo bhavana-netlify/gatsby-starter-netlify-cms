@@ -4,7 +4,7 @@ title: About our values
 ---
 ### Demo for updates for Anadarko
 
-This is a demo. We are now using the Netlify cms for Anadarko
+This is a demo. We are now using the Netlify cms. This is the staging branch
 
 ### Shade-grown coffee
 
