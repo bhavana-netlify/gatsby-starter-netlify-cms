@@ -4,7 +4,7 @@ title: About our values
 ---
 ### Demo for updates
 
-This is a demo. We are now using the Netlify cms for CU solutions
+This is a demo. We are now using the Netlify cms 
 
 ### Shade-grown coffee
 
