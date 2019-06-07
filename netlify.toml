@@ -6,7 +6,7 @@
   YARN_FLAGS = "--no-ignore-optional"
 [[redirects]]
 from = "/*"
-  to = "https://banasrini.com"
+  to = "https://google.com"
   status = 200
   force = true
   signed = "SECRET"
