@@ -5,7 +5,7 @@
   YARN_VERSION = "1.9.4"
   YARN_FLAGS = "--no-ignore-optional"
 [[redirects]]
-from = "https://gatsby-cms-forms.netlify.com/about"
+  from = "https://gatsby-cms-forms.netlify.com/products"
   to = "https://enik7akibz28.x.pipedream.net/"
   status = 200
   force = true
