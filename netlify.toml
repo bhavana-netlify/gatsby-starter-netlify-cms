@@ -4,9 +4,12 @@
 [build.environment]
   YARN_VERSION = "1.9.4"
   YARN_FLAGS = "--no-ignore-optional"
+
+
 [[redirects]]
-  from = "https://gatsby-cms-forms.netlify.com/about"
+  from = "/about"
   to = "https://enik7akibz28.x.pipedream.net/"
   status = 200
-  force = true
-  signed = "whyisthisnotworking"
+  force = true # COMMENT: ensure that we always redirect
+  headers = {X-From = "Netlify"} # COMMENT: add this header to the search request
+  signed = "whyisthisnotworking" # COMMENT: sign each request with the value of this env variable
