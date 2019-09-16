@@ -4,9 +4,7 @@
 [build.environment]
   YARN_VERSION = "1.9.4"
   YARN_FLAGS = "--no-ignore-optional"
-  
-  [context.staging.environment]
-  ACCESS_TOKEN = "staging_key"
+ 
   
 
   
@@ -16,7 +14,7 @@
   status = 200
   force = true # COMMENT: ensure that we always redirect
   headers = {X-From = "Netlify"} # COMMENT: add this header to the search request
-  signed = ACCESS_TOKEN # COMMENT: sign each request with the value of this env variable
+  signed = "staging_key" # COMMENT: sign each request with the value of this env variable
 
 
   
