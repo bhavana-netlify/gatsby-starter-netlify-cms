@@ -9,12 +9,12 @@
 
   
   [[redirects]]
-  from = "/Products"
-  to = "https://netlify.com/:splat"
+  from = "https://www.netlifydemo.com"
+  to = "https://enik7akibz28.x.pipedream.net/"
   status = 200
   force = true # COMMENT: ensure that we always redirect
   headers = {X-From = "Netlify"} # COMMENT: add this header to the search request
-  signed = "staging_key" # COMMENT: sign each request with the value of this env variable
+  signed = "whyisthisnotworking" # COMMENT: sign each request with the value of this env variable
 
 
   
