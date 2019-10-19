@@ -2,7 +2,7 @@
 templateKey: about-page
 title: About our values
 ---
-### Demo for updates
+### Demo for updates showing PR
 
 We are now using the Netlify cms. 
 
