@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Which Branch is this?
+title: JAMstack
 date: 2019-01-28T15:22:10.361Z
 description: This will be added soon
 tags:
