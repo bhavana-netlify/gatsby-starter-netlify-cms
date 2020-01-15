@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex for MODE
+title: A beginners’ guide to brewing with Chemex for MODE for Optimizely
 date: 2017-01-04T15:04:10.000Z
 description: >-
   Brewing with a Chemex probably seems like a complicated, time-consuming
