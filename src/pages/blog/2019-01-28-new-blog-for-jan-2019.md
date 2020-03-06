@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: JAMstack
+title: JAMstack - through the CMS
 date: 2020-01-21T15:34:10.361Z
 description: This will be added soon
 tags:
