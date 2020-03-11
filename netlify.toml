@@ -8,7 +8,7 @@
 
 [[redirects]]
   from = "/products"
-  to = "https://heuristic-euler-8da63a.netlify.com"
+  to = "https://friendly-lalande-764f5f.netlify.com/"
   status = 200
   force = true # COMMENT: ensure that we always redirect
 
