@@ -8,7 +8,7 @@
 
 [[redirects]]
   from = "/about"
-  to = "https://friendly-lalande-764f5f.netlify.com/"
+  to = "https://amazon.ca"
   status = 200
   force = true # COMMENT: ensure that we always redirect
 
