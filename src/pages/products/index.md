@@ -54,13 +54,13 @@ main:
     conditions are optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: ''
+    image: /img/image.jpeg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: ''
+    image: /img/image.jpeg
   image3:
     alt: Coffee beans
-    image: ''
+    image: /img/image.jpeg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
